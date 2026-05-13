@@ -1,6 +1,6 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
+# Reg No:212225230109
+# Name:Jaihari S
 # Date:
 
 
@@ -48,7 +48,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
+<img width="793" height="822" alt="image" src="https://github.com/user-attachments/assets/696ce1d4-a6ff-4c52-9dd4-97f2193eeeec" />
 
 
 
