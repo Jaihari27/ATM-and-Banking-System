@@ -88,9 +88,9 @@ Package diagrams are structural diagrams used to show the organization and arran
 organization of the layered architecture within any UML classifier, such as a software system.
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
+<img width="1128" height="823" alt="image" src="https://github.com/user-attachments/assets/54acf872-bab4-433e-9c23-347dee066349" />
 
 
-<img width="1207" height="817" alt="image" src="https://github.com/user-attachments/assets/bb695914-8cea-4b26-8dd0-9ea6144a4469" />
 
 
 
@@ -108,6 +108,7 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+<img width="527" height="802" alt="image" src="https://github.com/user-attachments/assets/e63ccdac-14ea-41c1-95f2-719d701c0c94" />
 
 
 
@@ -118,6 +119,7 @@ Describe the steps performed in a UML use case.
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
+<img width="395" height="812" alt="image" src="https://github.com/user-attachments/assets/5130fbb1-441e-4703-911c-08a71adc137d" />
 
 
 # BENEFITS OF SEQUENCE DIAGRAM
